@@ -61,7 +61,7 @@ const answers = [
   "",
   " loves ",
   ", and listening to ",
-  ". most loved meal of the day is ",
+  ". Favourite meal of the day is ",
   ", and in it likes to have ",
   ". Enjoys a game of ",
   ". And most of all is amazing at "
