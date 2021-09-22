@@ -43,6 +43,5 @@ End of Survey!
 }
 ```
 Your awesome profile:
-```
+
         Ayantika loves reading story books, and listening to poems and fun songs. Favourite meal is lunch in school, and in it likes to have ham sandwitch and chips. Enjoys a game of soccer. And most of all is amazing at hopping, chatting, laughing
-```
